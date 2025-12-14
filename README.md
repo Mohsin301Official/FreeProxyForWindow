@@ -10,7 +10,7 @@ This is proxy software that generates unlimited, lifetime proxies for free, with
 To start this free proxy software, you will have to go through a one-time CMD installation process, which I have included files in the software. You can click on the auto-installer to set up CMD one-time. I will tell you step by step how you can start the free proxy software.
 
 ### Python Install
-
+> [👉 Click Here to Download ](https://www.python.org/downloads/)
 Install Python and after installing it and installing Python, you must click on Add to Python Path.
 
 #### Tor Browser Install
